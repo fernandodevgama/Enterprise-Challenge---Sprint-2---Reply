@@ -208,18 +208,25 @@ Timestamp | Temp(°C) | Umid(%) | Luz(%) | Accel_X | Accel_Y | Accel_Z
 
 ### Análise de Dados
 
+#### 📈 Gráfico: Dashboard Completo
 ![📈 Gráfico: Dashboard Completo](graficos/img/dashboard_completo.png)
 
+#### 📈 Gráfico 1: Temperatura ao Longo do Tempo
 ![📈 Gráfico 1: Temperatura ao Longo do Tempo](graficos/img/temperatura_tempo.png)
 
+#### 📈 Gráfico 2: Correlação Temperatura vs Umidade
 ![📈 Gráfico 2: Correlação Temperatura vs Umidade](graficos/img/correlacao_temp_umidade.png)
 
+#### 📈 Gráfico 3: Luminosidade e Padrão Cíclico
 ![📈 Gráfico 3: Luminosidade e Padrão Cíclico](graficos/img/luminosidade_tempo.png)
 
+#### 📈 Gráfico 4: Análise de Vibração (MPU6050)
 ![📈 Gráfico 4: Análise de Vibração (MPU6050)](graficos/img/vibracao_mpu6050.png)
 
+#### 📈 Gráfico 5: Distribuições dos Sensores
 ![📈 Gráfico 5: Distribuições dos Sensores](graficos/img/distribuicoes_sensores.png)
 
+#### 📈 Gráfico 6: Matriz de Correlação
 ![📈 Gráfico 6: Matriz de Correlação](graficos/img/matriz_correlacao.png)
 
 
