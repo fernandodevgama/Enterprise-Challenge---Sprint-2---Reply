@@ -207,6 +207,6 @@ Timestamp | Temp(°C) | Umid(%) | Luz(%) | Accel_X | Accel_Y | Accel_Z
 ![Monitor Serial](serial_monitor.png)
 
 ### Análise de Dados
-![Gráficos de Análise](graficos\img\dashboard_completo.png)
+![Gráficos de Análise](graficos/img/dashboard_completo.png)
 
-![Outros Gráficos de Análise](graficos\img)
+![Outros Gráficos de Análise](graficos/img)
